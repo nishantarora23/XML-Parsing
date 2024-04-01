@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library>
+    <book>
+        <title>Python Programming</title>
+        <author>Sam Smith</author>
+        <year>2024</year>
+    </book>
+    <book>
+        <title>Java Programming</title>
+        <author>James Smith</author>
+        <year>2024</year>
+    </book>
+</library>
